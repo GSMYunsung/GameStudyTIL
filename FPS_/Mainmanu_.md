@@ -26,7 +26,7 @@ public class Menu : MonoBehaviour
 ```
 ---
 
-** 무슨 메뉴를 열건지에 대해 인식 혹은 메뉴 상태인식**
+**무슨 메뉴를 열건지에 대해 인식 혹은 메뉴 상태인식**
 
 ```
 using System.Collections;
@@ -79,7 +79,7 @@ public class MenuManager : MonoBehaviour
 }
 ```
 
-**Photon 서버에 대한 기본 설정들**
+** Photon 서버에 대한 기본 설정들 **
 ---
 
 ```
