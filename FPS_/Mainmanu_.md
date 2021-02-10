@@ -78,9 +78,8 @@ public class MenuManager : MonoBehaviour
 	}
 }
 ```
-
-** Photon 서버에 대한 기본 설정들 **
 ---
+**photon 서버에 대한 기본 설정들**
 
 ```
 using System.Collections;
