@@ -73,7 +73,7 @@ yield 코루틴은 다음 프레임에서 모든 Update 함수가 호출된 후�
 
 
 
-**Coroutine 과 Invoke **
+**Coroutine 과 Invoke**
 
 ---
 
@@ -151,7 +151,7 @@ StartCoroutine을 호출하는 스크립트가 붙은 오브젝트가 비활성�
 
 
 
-**코루틴 안에 코루틴 **
+**코루틴 안에 코루틴**
 
 ---
 
