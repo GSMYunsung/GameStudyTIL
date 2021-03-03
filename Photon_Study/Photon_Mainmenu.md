@@ -174,7 +174,7 @@ public class MenuManager : MonoBehaviour
 }
 ```
   
-### 메뉴열림닫힘확인후 메뉴 나타나게함
+#### 메뉴열림닫힘확인후 메뉴 나타나게함
 ---
   
 ```
